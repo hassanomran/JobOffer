@@ -1,0 +1,6 @@
+@DocuSign_HostAddress = http://localhost:5168
+
+GET {{DocuSign_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
