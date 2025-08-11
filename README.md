@@ -41,20 +41,4 @@ Frontend
 
     Angular Reactive Forms
 
-📂 Project Structure
-
-JobOfferManagement/
-│
-├── backend/                  # .NET 8 Web API
-│   ├── Controllers/           # API controllers
-│   ├── Models/                # EF Core entities
-│   ├── Data/                  # DbContext
-│   ├── Services/              # Business logic
-│   ├── Migrations/            # EF Core migrations
-│   └── Program.cs
-│
-└── frontend/                  # Angular 12+ project
-    ├── src/app/modules/job-offer/   # Job offer module
-    ├── src/app/core/                # Shared services, interceptors
-    └── src/environments/            # API environment configs
 
